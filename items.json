@@ -1,0 +1,13 @@
+{
+    "dirt": {"toughness": 2, "item_type": "BLOCK", "sounds": null},
+    "stone": {"toughness": 10, "item_type": "BLOCK", "sounds": null},
+    "darkstone": {"toughness": 20, "item_type": "BLOCK", "sounds": null},
+    "sand": {"toughness": 1.5, "item_type": "BLOCK", "sounds": null},
+    "bedrock": {"toughness": 0, "item_type": "BLOCK", "sounds": null},
+    "grass": {"toughness": 2, "item_type": "BLOCK", "sounds": null},
+    "snowy grass": {"toughness": 2, "item_type": "BLOCK", "sounds": null},
+    "snow": {"toughness": 1, "item_type": "BLOCK", "sounds": null},
+    "glowstone": {"toughness": 1, "item_type": "BLOCK", "sounds": null},
+    "short grass": {"toughness": 0.5, "item_type": "BLOCK", "sounds": null},
+    "none": {"toughness": 0, "item_type": "NONE_TYPE", "sounds": null}
+}

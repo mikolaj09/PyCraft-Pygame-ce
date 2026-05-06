@@ -1,0 +1,170 @@
+{
+    "air": {
+        "destroyable": false,
+        "toughness": 0,
+        "friction": null,
+        "elasticity": null,
+        "type": "FLUID",
+        "solid": false,
+        "resistance": 0.02,
+        "transparent": true,
+        "light emission": 0,
+        "dropped items": {"none": 0}
+    },
+
+    "dirt": {
+        "destroyable": true,
+        "toughness": 2,
+        "friction": 0.7,
+        "elasticity": 0.4,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"dirt": 1}
+    },
+
+    "stone": {
+        "destroyable": true,
+        "toughness": 10,
+        "friction": 0.6,
+        "elasticity": 0.1,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"stone": 1}
+    },
+
+    "darkstone": {
+        "destroyable": true,
+        "toughness": 20,
+        "friction": 0.6,
+        "elasticity": 0.1,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"darkstone": 1}
+    },
+
+    "sand": {
+        "destroyable": true,
+        "toughness": 1.5,
+        "friction": 0.9,
+        "elasticity": 0.3,
+        "type": "FALLING",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"sand": 1}
+    },
+
+    "water": {
+        "destroyable": false,
+        "toughness": 0,
+        "friction": null,
+        "elasticity": null,
+        "type": "FLUID",
+        "solid": false,
+        "resistance": 0.1,
+        "transparent": true,
+        "light emission": 0,
+        "dropped items": {"none": 0}
+    },
+
+    "lava": {
+        "destroyable": false,
+        "toughness": 0,
+        "friction": null,
+        "elasticity": null,
+        "type": "FLUID",
+        "solid": false,
+        "resistance": 0.4,
+        "transparent": true,
+        "light emission": 7,
+        "dropped items": {"none": 0}
+    },
+
+    "bedrock": {
+        "destroyable": false,
+        "toughness": 0,
+        "friction": 1,
+        "elasticity": 0,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"bedrock": 1}
+    },
+
+    "grass": {
+        "destroyable": true,
+        "toughness": 2,
+        "friction": 0.7,
+        "elasticity": 0.4,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"dirt": 1}
+    },
+
+    "snowy grass": {
+        "destroyable": true,
+        "toughness": 2,
+        "friction": 0.7,
+        "elasticity": 0.4,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"dirt": 1}
+    },
+
+    "snow": {
+        "destroyable": true,
+        "toughness": 1,
+        "friction": 0.8,
+        "elasticity": 0.5,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 0,
+        "dropped items": {"snow": 1}
+    },
+
+    "glowstone": {
+        "destroyable": true,
+        "toughness": 1,
+        "friction": 0.1,
+        "elasticity": 0.3,
+        "type": "RIGID",
+        "solid": true,
+        "resistance": "inf",
+        "transparent": false,
+        "light emission": 15,
+        "dropped items": {"glowstone": 1}
+    },
+
+      "short grass": {
+        "destroyable": true,
+        "toughness": 0.5,
+        "friction": null,
+        "elasticity": null,
+        "type": "RIGID",
+        "solid": false,
+        "resistance": 0.2,
+        "transparent": true,
+        "light emission": 0,
+        "dropped items": {"none": 0}
+    }
+}
