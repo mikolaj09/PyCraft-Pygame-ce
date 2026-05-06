@@ -13,7 +13,7 @@ A simple 2D sandbox game where players can explore, build, and interact with the
 
 ## Controls
 
-* WASD / Arrow keys — movement
+* Arrow keys — movement
 * Mouse — interaction
 
 ## Purpose
